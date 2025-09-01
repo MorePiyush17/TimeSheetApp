@@ -50,6 +50,6 @@ This repository contains the source code for a **full-stack timesheet management
 
 3. Open index.html in a browser.
 
-![Timesheet Dashboard](images/Timesheet Add.png)
+![Timesheet Dashboard](images/Timesheet%20Add.png)
 
 
