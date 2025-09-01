@@ -36,7 +36,7 @@ This repository contains the source code for a **full-stack timesheet management
 ## ⚡ Getting Started
 
 ### Backend Setup
-1. Open `Timesheet_Application_Backend.sln` in **Visual Studio**.  
+1. Open `TimesheetApp.sln` in **Visual Studio**.  
 2. Update the `DefaultConnection` string in `appsettings.Development.json` to point to your **SQL Server instance**.  
 3. Run the following in **Package Manager Console** to apply migrations:  
    ```powershell
@@ -49,3 +49,7 @@ This repository contains the source code for a **full-stack timesheet management
 2. In script.js, update the apiBaseUrl variable to match your running backend’s URL.
 
 3. Open index.html in a browser.
+
+![Timesheet Dashboard](images/Timesheet.png)
+
+
